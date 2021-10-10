@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)https://necolas.github.io/normalize.css/ -->
+<html lang="ru" data-lt-installed="true" class="translated-ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="initial-scale=1, width=device-width">
+    <title>Normalize.css: заставить браузеры отображать все элементы более единообразно.</title>
+    <link rel="stylesheet" href="./Normalize_files/css">
+    <link rel="stylesheet" href="./Normalize_files/normalize.css">
+    <link rel="stylesheet" href="./Normalize_files/main.css">
+    <link rel="icon" href="https://necolas.github.io/normalize.css/favicon.ico">
+  <link type="text/css" rel="stylesheet" charset="UTF-8" href="./Normalize_files/translateelement.css"><script charset="utf-8" src="./Normalize_files/button.5d16ecc02fbaf599a24dfb57ab239320.js.Без названия"></script></head>
+  <body>
+    <div class="container">
+      <div class="site-box">
+        <div class="hgroup">
+          <img class="logo" src="./Normalize_files/logo.svg" alt="Normalize.css">
+          <h1 class="title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normalize.css</font></font></h1>
+          <h2 class="tagline"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Современная альтернатива сбросу CSS с поддержкой HTML5</font></font></h2>
+        </div>
+
+        <p class="txt-large"><a href="https://github.com/necolas/normalize.css/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Normalize.css</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> заставляет браузеры отображать все элементы более согласованно и в соответствии с современными стандартами. </font><font style="vertical-align: inherit;">Он точно нацелен только на стили, требующие нормализации.</font></font></p>
+
+        <div class="cta-option">
+          <a class="btn-download" href="./Normalize_files/normalize.css">
+            <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Скачать </font></font></strong>
+            <span class="version"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">v8.0.1</font></font></span>
+          </a>
+          <div class="txt-small txt-mute"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chrome, Edge, Firefox ESR +, IE 10+, Safari 8+, Opera</font></font></div>
+          <a class="txt-small txt-mute" href="https://github.com/necolas/normalize.css/blob/8.0.1/CHANGELOG.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">См. ИЗМЕНЕНИЕ</font></font></a>
+        </div>
+
+        <div class="txt-large">
+          <pre><code><a href="https://www.npmjs.org/package/normalize.css/">npm</a> install normalize.css</code></pre>
+        </div>
+
+        <div class="share-bar">
+          <a class="read-more" href="http://nicolasgallagher.com/about-normalize-css/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Подробнее о normalize.css »</font></font></a>
+
+          <div class="share-opt">
+            <a href="https://github.com/necolas/normalize.css">
+              <img src="./Normalize_files/github-logo.png" width="28" height="28" alt="GitHub">
+            </a>
+          </div>
+
+          <div class="share-opt">
+            <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position: static; visibility: visible; width: 100px; height: 28px;" title="Twitter Tweet Button" src="./Normalize_files/tweet_button.58065ae230495f5d9e4b6a916472b2c1.ru.html"></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="site-footer">
+        <p class="txt-large"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">… Используется
+           </font></font><a href="https://twitter.com/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ,
+           </font></font><a href="https://tweetdeck.twitter.com/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TweetDeck</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ,
+           </font></font><a href="https://github.com/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ,
+           </font></font><a href="https://soundcloud.com/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Soundcloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ,
+           </font></font><a href="http://www.theguardian.com/uk?view=mobile"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Guardian</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ,
+           </font></font><a href="https://medium.com/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Medium</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ,
+           </font></font><a href="https://www.gov.uk/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GOV.UK</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ,
+           </font></font><a href="http://getbootstrap.com/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bootstrap</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ,
+           </font></font><a href="http://html5boilerplate.com/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML5 Boilerplate</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> и многими другими.
+        </font></font></p>
+
+        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Исходный код доступен на GitHub: </font></font><a href="https://github.com/necolas/normalize.css/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">necolas / normalize.css</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+      </div>
+    </div>
+
+    <script id="twitter-wjs" src="./Normalize_files/widgets.js.Без названия"></script><script src="./Normalize_files/analytics.js.Без названия"></script><script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='//www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','UA-43313358-1');ga('send','pageview');
+
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];
+      if(!d.getElementById(id)){js=d.createElement(s);js.id=id;
+      js.src="https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+
+  
+
+<div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="./Normalize_files/translate_24dp.png" width="20" height="20" alt="Google Переводчик"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Исходный текст</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Предложить лучший вариант перевода</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><iframe scrolling="no" frameborder="0" allowtransparency="true" src="./Normalize_files/widget_iframe.58065ae230495f5d9e4b6a916472b2c1.html" title="Настройки твиттера iframe" style="display: none;"></iframe><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe" src="./Normalize_files/saved_resource.html"></iframe></body></html>
